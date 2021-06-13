@@ -10,7 +10,12 @@ Welcome to Prateek's Learn go with tests application's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   intro
+   http_server
+   json
+   io
+   command_line
+   time
 
 Indices and tables
 ==================
